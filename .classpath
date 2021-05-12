@@ -23,5 +23,24 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/APACHE_POI/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/EXTENT_REPORTS_JARS/2.40.2/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/FREE-MARKER-JAR/2.3.23/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/JXL_JARS/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/LOG4J/log4j-1.2.18.ayg01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seenu/Desktop/SELENIUM/SELENIUM_JARS/SELENIUM_3.1_JARS/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
